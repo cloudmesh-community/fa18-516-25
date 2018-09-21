@@ -5,3 +5,5 @@
 # Week Fri 09/07/18 - 09/13/18
  - set up aws account
  - implement cm-vagrant run command
+ # Week Fri 09/14/18 - 09/20/18
+ - N.A. until thursday night
