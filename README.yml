@@ -3,4 +3,18 @@ owner:
   firstname: "Chun Sheng"
   lastname: "Wu"
   hid: "fa18-516-25"
-  community: "e616"
+  community: "e516"
+  
+  
+section:
+    - title: TBD
+         url: TBD
+chapter:
+    - title: TBD
+         url: TBD       
+project:
+    - title: TBD
+         url: TBD
+other:
+    - activity: Contributed to the CM Vagrant Script
+         url: https://github.com/cloudmesh-community/cm/tree/master/cm4/vagrant
