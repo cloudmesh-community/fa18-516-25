@@ -11,4 +11,6 @@
  - implementing cm-vagrant run-script (in progressing)
  - setup Raspberry pi boards and setup network/ssh login
  - study python parallel library "ipyparallel"
-
+# Week Fri 09/28/18 - 10/04/18
+ - implementing cm-vagrant script (almost done)
+ - study topcis in epub: chapter 7,8,9
