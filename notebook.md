@@ -14,3 +14,5 @@
 # Week Fri 09/28/18 - 10/04/18
  - implementing cm-vagrant script (almost done)
  - study topcis in epub: chapter 7,8,9
+ # Week Fri 10/05/18 - 10/11/18
+ - finished cm-vagrant script
