@@ -14,9 +14,11 @@
 # Week Fri 09/28/18 - 10/04/18
  - implementing cm-vagrant script (almost done)
  - study topcis in epub: chapter 7,8,9
- # Week Fri 10/05/18 - 10/11/18
+# Week Fri 10/05/18 - 10/11/18
  - finished cm-vagrant script
-  # Week Fri 10/12/18 - 10/18/18
+# Week Fri 10/12/18 - 10/18/18
  - draft cm interactive shell funciton design and mongodb scheme 
  - draft cm-vagrant documentation
  - study topics in epub: Containers  
+# Week Fri 10/19/18 - 10/25/18
+ - almost done: refractory cm-vagrant code and documentation
