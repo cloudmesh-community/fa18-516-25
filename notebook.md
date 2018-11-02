@@ -22,3 +22,7 @@
  - study topics in epub: Containers  
 # Week Fri 10/19/18 - 10/25/18
  - almost done: refractory cm-vagrant code and documentation
+# Week Fri 10/16/18 - 11/01/18
+ - done: refractory cm-vagrant code and documentation, add test script
+ - sumbit ehvagrant as an pypi package
+ - study: hadoop
