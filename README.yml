@@ -7,14 +7,18 @@ owner:
   
   
 section:
-    - title: TBD
-         url: TBD
-chapter:
-    - title: TBD
-         url: TBD       
+    - title: implement vagrant module for cm4
+      url: https://github.com/cloudmesh-community/cm/tree/master/cm4/vagrant/vagrant.py
+	- title: implement Openstack module for cm4 
+	  url: https://github.com/cloudmesh-community/cm/tree/master/cm4/openstack/OpenstackCM.py
+	  
+paper:
+    - title: documents vagrant module for cm4  
+      url: https://github.com/cloudmesh-community/cm/tree/master/cm4/vagrant/README.md
+	  
 project:
-    - title: cm4- Vagrant
-         url: TBD
+    - title: cm4
+      url: https://github.com/cloudmesh-community/cm
 other:
-    - activity: Contributed to the CM Vagrant Script
-         url: https://github.com/cloudmesh-community/cm/tree/master/cm4/vagrant
+    - activity: contribute to cm4 project in cm4/configure/name.py
+      url: https://github.com/cloudmesh-community/cm/tree/master/cm4/configrue/name.py

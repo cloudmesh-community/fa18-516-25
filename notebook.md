@@ -26,3 +26,9 @@
  - done: refractory cm-vagrant code and documentation, add test script
  - sumbit ehvagrant as an pypi package
  - study: hadoop
+ # Week Fri 11/02/18 - 11/08/18
+ - implemetend basic functionality agiant Chameleon cloud
+ - done: setup docker at aws cloud
+ - study: docker
+ 
+ 
