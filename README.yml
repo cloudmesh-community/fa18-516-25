@@ -9,8 +9,8 @@ owner:
 section:
     - title: implement vagrant module for cm4
       url: https://github.com/cloudmesh-community/cm/tree/master/cm4/vagrant/vagrant.py
-	- title: implement Openstack module for cm4 
-	  url: https://github.com/cloudmesh-community/cm/tree/master/cm4/openstack/OpenstackCM.py
+    - title: implement Openstack module for cm4 
+      url: https://github.com/cloudmesh-community/cm/tree/master/cm4/openstack/OpenstackCM.py
 	  
 paper:
     - title: documents vagrant module for cm4  
