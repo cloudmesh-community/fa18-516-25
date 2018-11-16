@@ -12,7 +12,7 @@ section:
 	- title: implement Openstack module for cm4 
 	  url: https://github.com/cloudmesh-community/cm/tree/master/cm4/openstack/OpenstackCM.py
 	  
-paper:
+chapter:
     - title: documents vagrant module for cm4  
       url: https://github.com/cloudmesh-community/cm/tree/master/cm4/vagrant/README.md
 	  
