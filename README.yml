@@ -4,21 +4,17 @@ owner:
   lastname: "Wu"
   hid: "fa18-516-25"
   community: "e516"
-  
-  
 section:
-    - title: implement vagrant module for cm4
-      url: https://github.com/cloudmesh-community/cm/tree/master/cm4/vagrant/vagrant.py
-    - title: implement Openstack module for cm4 
-      url: https://github.com/cloudmesh-community/cm/tree/master/cm4/openstack/OpenstackCM.py
-	  
+  - title: implement vagrant module for cm4
+    url: https://github.com/cloudmesh-community/cm/tree/master/cm4/vagrant/vagrant.py
+  - title: implement Openstack module for cm4 
+    url: https://github.com/cloudmesh-community/cm/tree/master/cm4/openstack/OpenstackCM.py	  
 chapter:
-    - title: documents vagrant module for cm4  
-      url: https://github.com/cloudmesh-community/cm/tree/master/cm4/vagrant/README.md
-
+  - title: documents vagrant module for cm4  
+    url: https://github.com/cloudmesh-community/cm/tree/master/cm4/vagrant/README.md
 project:
-    - title: cm4
-      url: https://github.com/cloudmesh-community/cm
+  - title: cm4
+    url: https://github.com/cloudmesh-community/cm
 other:
-    - activity: contribute to cm4 project in cm4/configure/name.py
-      url: https://github.com/cloudmesh-community/cm/tree/master/cm4/configrue/name.py
+  - activity: contribute to cm4 project in cm4/configure/name.py
+    url: https://github.com/cloudmesh-community/cm/tree/master/cm4/configrue/name.py
