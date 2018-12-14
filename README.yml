@@ -1,20 +1,24 @@
 ---
 owner:
-  firstname: "Chun Sheng"
+  firstname: "Chun Sheng (Kimball)"
   lastname: "Wu"
   hid: "fa18-516-25"
   community: "e516"
 section:
   - title: implement vagrant module for cm4
-    url: https://github.com/cloudmesh-community/cm/tree/master/cm4/vagrant/vagrant.py
-  - title: implement Openstack module for cm4
-    url: https://github.com/cloudmesh-community/cm/tree/master/cm4/openstack/OpenstackCM.py
+    url: https://github.com/cloudmesh-community/cm/blob/master/deprecated/vagrant_basic.py
+  - title: implement all major Openstack functionality described in abstract class for cm4
+    url: https://github.com/cloudmesh-community/cm/blob/master/cm4/openstack/OpenstackCM.py
 chapter:
-  - title: documents vagrant module for cm4
-    url: https://github.com/cloudmesh-community/cm/tree/master/cm4/vagrant/README.md
+  - title: documents vagrant module for cm4  
+    url: https://github.com/cloudmesh-community/cm/blob/master/deprecated/vagrant/ehvagrant.md
 project:
   - title: cm4
     url: https://github.com/cloudmesh-community/cm
 other:
-  - activity: contribute to cm4 project in cm4/configure/name.py
+  - activity: contribute name module to cm4 project 
     url: https://github.com/cloudmesh-community/cm/tree/master/cm4/configrue/name.py
+  - activity: editing cloudmesh.yaml for Openstack and vagrnat module
+    url: https://github.com/cloudmesh-community/cm/blob/master/cm4/etc/cloudmesh4.yaml
+  - activity: contribute to first version of cm4 rest api
+    url: https://github.com/cloudmesh-community/cm/blob/34c7b02dc52ac78b7ac7a4969abe8a3fa53a2c76/cm4/flask_rest_api/cm.py
